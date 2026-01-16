@@ -1,0 +1,25 @@
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+.rojo {
+  color: red;
+}
+
+.negrita{
+  font-weight: bold;
+}
+
+.nyl {
+  font-weight: bold;
+  text-align: left;
+}
+
+.ponermedio {
+    text-align: center;
+}

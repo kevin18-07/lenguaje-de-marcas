@@ -1,0 +1,29 @@
+.titulo {
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.asignatura {
+  border: 1px solid black;
+}
+
+.modul {
+  color: red;
+  font-weight: bold;
+}
+
+.aula {
+  color: gray;
+  font-style: italic;
+}
