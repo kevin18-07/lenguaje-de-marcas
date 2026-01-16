@@ -1,0 +1,15 @@
+.titol {
+  color: BLUE;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.orange {
+  color: lightsalmon;
+}
+
+
+.red {
+  color: red; 
+  line-height: 2;
+}
