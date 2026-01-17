@@ -1,0 +1,32 @@
+.destacat {
+    font-weight: bold;
+    color: orange;
+}
+
+.subratllat {
+    text-decoration: underline;
+}
+
+.taula {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.taula td {
+    border: 1px solid;
+    vertical-align: top;
+}
+
+.any {
+    width: 80px;
+}
+
+.nom {
+    font-weight: 600;
+    color: blue;
+    width: 200px;
+}
+
+.motiu {
+    line-height: 1.3;
+}

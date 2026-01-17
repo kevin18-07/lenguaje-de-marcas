@@ -1,0 +1,40 @@
+.parrafo-intro {
+    text-align: left;
+}
+
+.titulo {
+    text-align: right;
+    color: blue;
+}
+
+.estrofa {
+    line-height: 1.5;
+}
+
+.izquierda {
+    text-align: left;
+}
+
+.centro {
+    text-align: center;
+}
+
+.rojo {
+    color: red;
+}
+
+.azul {
+    color: blue;
+}
+
+.autor {
+    text-align: right;
+    font-style: italic;
+    font-weight: 600;
+}
+.estrofaA {
+    line-height: 4;
+}
+.NARANJA {
+    color: orange;
+}
